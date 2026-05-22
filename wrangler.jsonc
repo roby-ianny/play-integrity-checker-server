@@ -16,8 +16,8 @@
             "/api/check"
         ]
     },
-    "limits": {
-        "cpu_ms": 100
-    },
+    // "limits": {
+        // "cpu_ms": 100
+    // },
     "placement": { "mode": "smart" }
 }
